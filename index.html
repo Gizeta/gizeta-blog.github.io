@@ -1,89 +1,17 @@
-<!DOCTYPE html>
-<html style="background:#eeeeee;">
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Gizeta">
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-    <title>Gizeta</title>
-  </head>
-  <body>
-    <div style="position:absolute;top:50%;left:50%;margin-top:-150px;margin-left:-250px;">
-      <div style="width:500px;height:300px;border:1px solid #888888;border-radius:10px;box-shadow: 5px 5px 3px #888888;padding:10px;background:white;font-family:Microsoft YaHei;">
-        <div style="width:500px;height:300px;background:purple;border-radius:10px;">
-          <div style="height:45px;padding-top:5px;color:white;">
-            <div style="margin-left:25px;font-size:170%;display:inline-block;">空鱼</div>
-            <div style="display:inline-block;">zwei</div>
-            <div style="margin-left:290px;display:inline-block;text-align:right;">
-              <div>渣包一型</div>
-              <div style="font-size:90%;">ZHA BAO</div>
-            </div>
-          </div>
-          <div style="width:500px;height:230px;background:white;">
-            <div style="position:absolute;padding-top:25px;padding-left:25px;">
-              <div style="width:180px;height:180px;background-image:url('http://static.gizeta.me/image/myface.png');border:1px solid #888888;border-radius:10px;box-shadow: 1px 1px 1px #888888;"></div>
-            </div>
-            <div style="padding-top:25px;padding-left:240px;color:purple;">
-              <div style="height:25px">
-                <div style="display:inline-block;">代码</div>
-                <div style="width:120px;height:11px;margin-left:10px;background:purple;display:inline-block;"></div>
-                <div style="margin-left:40px;display:inline-block;">80</div>
-              </div>
-              <div style="height:25px">
-                <div style="display:inline-block;">设计</div>
-                <div style="width:45px;height:11px;margin-left:10px;background:purple;display:inline-block;"></div>
-                <div style="margin-left:115px;display:inline-block;">30</div>
-              </div>
-              <div style="height:25px">
-                <div style="display:inline-block;">编辑</div>
-                <div style="width:15px;height:11px;margin-left:10px;background:purple;display:inline-block;"></div>
-                <div style="margin-left:145px;display:inline-block;">10</div>
-              </div>
-              <div style="height:25px">
-                <div style="display:inline-block;">翻译</div>
-                <div style="width:0px;height:11px;margin-left:10px;background:purple;display:inline-block;"></div>
-                <div style="margin-left:160px;display:inline-block;">0</div>
-              </div>
-              <div style="height:25px">
-                <div style="display:inline-block;">吐槽</div>
-                <div style="width:60px;height:11px;margin-left:10px;background:purple;display:inline-block;"></div>
-                <div style="margin-left:100px;display:inline-block;">40</div>
-              </div>
-              <div style="margin-top:13px;margin-left:5px;color:white;">
-                <div style="width:40px;height:40px;border-radius:7px;display:inline-block;background:purple;">
-                  <div style="margin-top:10px;text-align:center;font-size:80%;font-weight:bold;">C</div>
-                </div>
-                <div style="width:40px;height:40px;border-radius:7px;display:inline-block;background:purple;">
-                  <div style="margin-top:10px;text-align:center;font-size:80%;font-weight:bold;">C#</div>
-                </div>
-                <div style="width:40px;height:40px;border-radius:7px;display:inline-block;background:purple;">
-                  <div style="margin-top:10px;text-align:center;font-size:80%;font-weight:bold;">JS</div>
-                </div>
-                <div style="width:40px;height:40px;border-radius:7px;display:inline-block;background:purple;">
-                  <div style="margin-top:10px;text-align:center;font-size:80%;font-weight:bold;">PHP</div>
-                </div>
-                <div style="width:40px;height:40px;border-radius:7px;display:inline-block;background:purple;">
-                  <div style="margin-top:10px;text-align:center;font-size:80%;font-weight:bold;">Ruby</div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <footer style="position:absolute;bottom:5px;">
-      <span>
-        <a href="https://github.com/Gizeta">Github@Gizeta</a>
-      </span>
-      <span>
-        <a href="https://bitbucket.org/Gizeta_sf/">Bitbucket@Gizeta_sf</a>
-      </span>
-      <span>
-        <a href="http://weibo.com/gizeta">微博@空鱼_绝赞拖延中</a>
-      </span>
-      <span>
-        <a href="http://zh.kcwiki.moe/wiki/User:%E7%A9%BA%E9%B1%BC">舰娘百科@空鱼</a>
-      </span>
-    </footer>
-  </body>
-</html>
+---
+layout: page
+title: Blog
+sitemap:
+  priority: 0.9
+---
+
+<ul class="list-posts">
+    {% for post in site.posts %}
+        <li class="post-teaser">
+            <a href="{{ post.url | prepend: site.baseurl }}">
+                <span class="post-teaser__title">{{ post.title }}</span>
+                <span class="post-teaser__date">{{ post.date | date: "%d %B %Y" }}</span>
+            </a>
+        </li>
+    {% endfor %}
+</ul>
