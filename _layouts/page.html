@@ -6,3 +6,7 @@ layout: default
 {{ content }}
 
 {% include page/explore.html %}
+
+{% if page.comment %}
+{% include externals/duoshuo.html %}
+{% endif %}
