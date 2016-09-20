@@ -22,6 +22,12 @@
             </a>
         {% endif %}
 
+        {% if site.author.telegram %}
+            <a href="https://telegram.me/{{ site.author.telegram }}/" class="social-links__entry" target="_blank">
+                <i class="fa fa-paper-plane"></i>
+            </a>
+        {% endif %}
+
         {% if site.author.weibo %}
             <a href="http://weibo.com/{{ site.author.weibo }}" class="social-links__entry" target="_blank">
                 <i class="fa fa-weibo"></i>
