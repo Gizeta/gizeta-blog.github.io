@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "迷上了 MMD & Cardboard (part1)"
+subtitle: "mmd-cardboard 实验品 (stage1)"
+date:   2016-11-02 16:32:40
+categories: [works]
+---
+所有的素材及原始代码来自 [https://playcanvas.com/project/367166/overview/mmd-on-html5](https://playcanvas.com/project/367166/overview/mmd-on-html5)。由于 PlayCanvas 库版本更新改动较大，所以做了很多改动。
+
+资源很大，加载较慢，耐心等待。
+
+<iframe src="http://asset.gizeta.me/mmd-cardboard/stage1.html" width="800" height="450" frameborder="no" scrolling="no" allowtransparency="yes"></iframe>
+
+stage2 计划：加入 CardBoard 控制
+
+注：以上内容仅供实验娱乐，请勿转载、盗链。
