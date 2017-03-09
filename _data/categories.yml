@@ -4,3 +4,7 @@
   name: WORKS
 - slug: hack
   name: HACK
+- slug: fe
+  name: FrontEnd
+- slug: others
+  name: OTHERS

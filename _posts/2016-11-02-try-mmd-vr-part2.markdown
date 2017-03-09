@@ -13,7 +13,7 @@ PlayCanvas 的坑好多。新版本创建的 WebVR 项目竟然无法运行，�
 
 <iframe src="http://asset.gizeta.me/mmd-cardboard/stage2.html" width="800" height="450" frameborder="no" scrolling="no" allowtransparency="yes"></iframe>
 
-Update: 建议点开链接看，不然貌似不全屏。[http://asset.gizeta.me/mmd-cardboard/stage2.html](http://asset.gizeta.me/mmd-cardboard/stage2.html)
+Update: 建议点开链接看，不然貌似不全屏。~~[http://asset.gizeta.me/mmd-cardboard/stage2.html](http://asset.gizeta.me/mmd-cardboard/stage2.html)~~
 
 stage3 计划：重写原有脚本，兼容新版本 PlayCanvas
 
