@@ -4,7 +4,7 @@ title:  "Hello WebAssembly"
 date:   2017-03-09 23:04:41
 categories: [others]
 ---
-听闻 Firefox 52 已经支持了 WebAssembly，性质大法，手撸一小段，也算是有写过 WebAssembly 的经历了（笑）。
+听闻 Firefox 52 已经支持了 WebAssembly，兴致大发，手撸一小段，也算是有写过 WebAssembly 的经历了（笑）。
 
 ```WebAssembly
 (module
