@@ -5,6 +5,11 @@
         {% include meta_tags/sharing.html %}
 
         {% include externals/styling.html %}
+        <link rel="stylesheet" href="{{ "/css/aa.css" | prepend: site.baseurl }}">
+        {% if page.id == "about" %}
+            <link rel="stylesheet" href="//cdn.bootcss.com/font-mfizz/2.4.1/font-mfizz.min.css">
+            <link rel="stylesheet" href="{{ "/css/about.css" | prepend: site.baseurl }}">
+        {% endif %}
     </head>
 
     <body>
@@ -13,8 +18,22 @@
 
             {{ content }}
         </div>
+        <pre class="aa aa-main">
+　　 　 　 　ﾄ ､.　 /|
+　 　 　 　 　＼＼|::|/|,. -‐‐- ､.,_
+　　　　　　　　,＞''"´:::::::::::::::::::::::｀ヽ.
+　　　 　 　 ／:::/::::::::::/|::::::::::::::::::::::｀ヽ.
+　　 　 　 ./:::／::::::::::/‐ﾍ:::::::ﾄ ､ｰ-::＼｀フ
+　　　 　 ,'＜:;_/:::::::/　__, ＼| ､_＼::::::::＞
+　　　　 ,.|::::∠;:::::::xｰt--,　　 -tｰ‐ｧ7´|　
+　　　　　!:::::::ｒﾚ∨. 　`‐'　　　　`ｰ'　::八　
+　 -ﾄ ､__人::::ゝ'ﾍ　 　 　 　 　 　 　 |:::_;:＞
+　 人::::::::::::;＞:::;ハ､　 　　　,　　　.人:|　　
+￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣
+        </pre>
 
         {% include externals/scripting.html %}
         {% include externals/google_analytics.html %}
+        <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
     </body>
 </html>

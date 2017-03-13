@@ -1,0 +1,21 @@
+.aa {
+    font-size: 12pt;
+    line-height: 1.125em;
+    font-family: "MS PGothic";
+    color: black;
+    user-select: none;
+    -moz-user-select: none;
+}
+
+.aa-main {
+    position: fixed;
+    bottom: -2.5em;
+    left: 5px;
+    color: gray;
+    opacity: 0.2;
+}
+@media (max-width: 1279px) {
+    .aa-main {
+        display: none;
+    }
+}
