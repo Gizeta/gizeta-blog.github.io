@@ -1,35 +1,21 @@
 ---
 layout: page
 id: about
-title: About
+title: About Me
 permalink: /about/
 comment: true
 ---
-__属性__：
-
-[ 舰狗 ] \| [ 东方厨 ] \| [ 软粉 ] \| [ 前端狗 ] \| [ Rubist ] \| [ BUPTer ] \| [ 舰百苦力 ]
-
-<br>
-
-__喜好__：
-
-[ EDM ] \| [ 各种同人作品 ]
+{:.skills}
+* 熟练使用 <i class="fa fa-windows"></i> <i class="icon-debian"></i> <i class="icon-ubuntu"></i> <i class="fa fa-android"></i> 玩游戏
+* 注册过 <i class="icon-npm"></i> <i class="icon-codepen"></i> <i class="icon-heroku"></i> <i class="icon-openshift"> </i><i class="icon-wordpress"></i> <i class="icon-freecodecamp"></i>
+* 经常安装/卸载 <i class="icon-apache"></i> <i class="icon-nginx"></i> <i class="icon-mongodb"></i> <i class="icon-postgres"></i>
+* 熟悉 <i class="icon-bootstrap"></i> <i class="icon-d3"></i> <i class="icon-jquery"></i> <i class="icon-reactjs"></i> <i class="icon-ruby-on-rails"></i> <i class="icon-unity"></i> 的单词拼写
+* 能熟练使用 <i class="icon-c"></i> <i class="icon-csharp"></i> <i class="icon-css3"></i> <i class="icon-elixir"></i> <i class="icon-html5"></i> <i class="icon-nodejs"></i> <i class="icon-php"></i> <i class="icon-ruby"></i> <i class="icon-rust"></i> <i class="icon-script"></i> 实现“Hello world”程序
+* 会使用 <i class="icon-git"></i> <i class="icon-gulp"></i> 管理 txt 文档
 
 <br>
 
-__厌恶__：
-
-[ Apple Inc. ] \| [ Java ]
-
-<br>
-
-__技能点__:
-
-[ C# ] \| [ Ruby ] \| [ Node.JS ] \| [ HTML ] \| [ Elixir ] \| [ Rust ] \| [ C ]
-
-<br>
-
-__出没地点__:
+__来打我呀__:
 
 * [GitHub \| Gizeta](https://github.com/Gizeta)
 * [Bitbucket \| Gizeta](https://bitbucket.org/Gizeta_sf/)
@@ -38,3 +24,5 @@ __出没地点__:
 * [Twitter \| 空鱼](https://twitter.com/Gizeta_sf)
 * [Bangumi \| 空鱼](http://bgm.tv/user/gizeta)
 * [Steam \| Gizeta](http://steamcommunity.com/id/gizeta/)
+* [Bilibili \| 空鱼](http://space.bilibili.com/31625/#!/index)
+* [PGP \| 8FF3C26F](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x2AD041B88FF3C26F)

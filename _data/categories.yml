@@ -1,10 +1,6 @@
-- slug: bupt
-  name: BUPT
 - slug: works
-  name: WORKS
-- slug: hack
-  name: HACK
+  name: Works
 - slug: fe
   name: FrontEnd
 - slug: others
-  name: OTHERS
+  name: Others
