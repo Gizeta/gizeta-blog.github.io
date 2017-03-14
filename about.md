@@ -15,7 +15,6 @@ comment: true
 
 <br>
 
-<!-- http://touhou-aamatome.sakura.ne.jp/aa/seirensen/nue.html -->
 <pre class="aa nue">
 　　　　　　　 　 　 　 ＿
 　　　　　　　　　　＿(○) 　 , ‐-　､､ _ ,, ｨｧ
