@@ -8,7 +8,7 @@ comment: true
 {:.skills}
 * 熟练使用 <i class="fa fa-windows"></i> <i class="icon-debian"></i> <i class="icon-ubuntu"></i> <i class="fa fa-android"></i> 玩游戏
 * 注册过 <i class="icon-npm"></i> <i class="icon-codepen"></i> <i class="icon-heroku"></i> <i class="icon-openshift"> </i><i class="icon-wordpress"></i> <i class="icon-freecodecamp"></i>
-* 经常安装/卸载 <i class="icon-apache"></i> <i class="icon-nginx"></i> <i class="icon-mongodb"></i> <i class="icon-postgres"></i>
+* 精通 <i class="icon-apache"></i> <i class="icon-nginx"></i> <i class="icon-mongodb"></i> <i class="icon-postgres"></i> 的安装与卸载
 * 熟悉 <i class="icon-bootstrap"></i> <i class="icon-d3"></i> <i class="icon-jquery"></i> <i class="icon-reactjs"></i> <i class="icon-ruby-on-rails"></i> <i class="icon-unity"></i> 的单词拼写
 * 能熟练使用 <i class="icon-c"></i> <i class="icon-csharp"></i> <i class="icon-css3"></i> <i class="icon-elixir"></i> <i class="icon-html5"></i> <i class="icon-nodejs"></i> <i class="icon-php"></i> <i class="icon-ruby"></i> <i class="icon-rust"></i> <i class="icon-script"></i> 实现“Hello world”程序
 * 会使用 <i class="icon-git"></i> <i class="icon-gulp"></i> 管理 txt 文档

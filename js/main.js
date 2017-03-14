@@ -6,7 +6,6 @@ function getRandomCJKChar(len) {
     }
     return str.join('');
 }
-
 let originTitle = '';
 let titleTimerId = null;
 document.addEventListener("visibilitychange", () => {
@@ -24,3 +23,30 @@ document.addEventListener("visibilitychange", () => {
         document.title = originTitle;
     }
 });
+
+let aaDom = document.querySelector('.aa-main');
+let aaNueText = aaDom.innerHTML;
+function onAAMouseEnter() {
+    aaDom.removeEventListener('mouseenter', onAAMouseEnter);
+    aaDom.addEventListener('mouseleave', onAAMouseLeave);
+    aaDom.innerHTML = [
+        '　',
+        '　',
+        '　',
+        '　',
+        '　',
+        '　',
+        '　　 　 　 　ﾄ ､.　 /|',
+        '　 　 　 　 　＼＼|::|/|,. -‐‐- ､.,_',
+        '　　　　　　　　,＞\'\'"´:::::::::::::::::::::::｀ヽ.',
+        '　　　 　 　 ／:::/::::::::::/|::::::::::::::::::::::｀ヽ.',
+        '￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣',
+        '　',
+    ].join("\n");
+}
+function onAAMouseLeave() {
+    aaDom.removeEventListener('mouseleave', onAAMouseLeave);
+    aaDom.addEventListener('mouseenter', onAAMouseEnter);
+    aaDom.innerHTML = aaNueText;
+}
+aaDom.addEventListener('mouseenter', onAAMouseEnter);
