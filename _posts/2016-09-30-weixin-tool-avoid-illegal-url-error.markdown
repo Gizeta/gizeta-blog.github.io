@@ -3,6 +3,7 @@ layout: post
 title:  "绕过微信 web 调试工具遇到的 url 安全限制"
 date:   2016-09-29 19:37:25
 categories: [others]
+duoshuo_thread_key: "/hack/2016/09/29/weixin-tool-avoid-illegal-url-error"
 ---
 通过之前很火的微信小程序的消息，我才知道微信出了个 [web 开发者工具](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1455784140)。为了能让自己在做微信外包中少掉些头发，果断下载了这个神器。咦，只有 Windows 版和 Mac 版，看来腾讯还是不疼 Linux 呢。安装过程就发现程序的结构有些眼熟。这不就是 nw.js 么！这腾讯不支持 Linux，是在嘲笑 nw.js 的 Linux 支持不完整还是真的认为 Linux 用户没人权呢。不过，我猜测是因为打包安装的程序没有提供 Linux 版，Linux 用户哪里需要 GUI 呀（笑）。
 
@@ -21,3 +22,9 @@ categories: [others]
 好了，可以愉快地去调试外包网页了。不过，既然 js 可以很容易地修改，那么可以 hack 的东西当然不止这一点，就交给大家自己去发掘了。
 
 文中所使用的微信 web 开发者工具版本为：**(2016.05.19) 0.7.0**，虽然没到 1.0 正式版，不过还是希望腾讯老爷能多上上心，至少把 typo 消除了啊，不然我看着浑身难受。
+
+__2017.03.15 更新__：
+
+评论里有人反映说照着文章改完了之后会不断刷新，试了下把下面的“ \|\| s === errcodeConfig.ILLEGAL_URL”删掉就好了。
+
+（咦，难道我当时没注意到，不记得了）
