@@ -25,26 +25,9 @@
     }
 }
 
-html {
+* {
     cursor: url('/assets/images/trident.png'), auto !important;
 }
-
-a:nth-of-type(3n+1) {
-    cursor: url('/assets/images/ufo1.png'), pointer !important;
-}
-a:nth-of-type(3n+2) {
-    cursor: url('/assets/images/ufo2.png'), pointer !important;
-}
-a:nth-of-type(3n) {
-    cursor: url('/assets/images/ufo3.png'), pointer !important;
-}
-
-li:nth-of-type(3n+1) a {
-    cursor: url('/assets/images/ufo1.png'), pointer !important;
-}
-li:nth-of-type(3n+2) a {
-    cursor: url('/assets/images/ufo2.png'), pointer !important;
-}
-li:nth-of-type(3n) a {
-    cursor: url('/assets/images/ufo3.png'), pointer !important;
+a, a * {
+    cursor: pointer !important;
 }
