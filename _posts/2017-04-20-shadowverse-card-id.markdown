@@ -55,4 +55,5 @@ categories: [others]
 
 第九位
 ---
-* 0
+* 1 普通
+* 2 闪卡
