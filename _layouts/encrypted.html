@@ -1,0 +1,68 @@
+---
+layout: default
+---
+{% include post/title.html %}
+
+<div class="content">
+    <p>此文章有密码保护</p>
+    <input id="password" type="password" /><button id="pwd_submit">提交</button>
+</div>
+
+<script>
+    function b64ToBuf(str) {
+        let encrypted = window.atob(str);
+        let len = encrypted.length;
+        let buf = new Uint8Array(len);
+        for (let i = 0; i < len; i++)
+            buf[i] = encrypted.charCodeAt(i);
+        return buf.buffer;
+    }
+
+    function buf2str(buf) {
+        return String.fromCharCode(...new Uint16Array(buf));
+    }
+
+    document.getElementById("pwd_submit").onclick = function() {
+        window.crypto.subtle.importKey(
+            "jwk",
+            {
+                kty: "oct",
+                k: document.getElementById("password").value,
+                alg: "A256GCM",
+                ext: true,
+            },
+            {
+                name: "AES-GCM",
+            },
+            false,
+            ["encrypt", "decrypt"]
+        )
+        .then(key => {
+            window.crypto.subtle.decrypt(
+                {
+                    name: "AES-GCM",
+                    iv: b64ToBuf("{{ page.data.iv }}"),
+                },
+                key,
+                b64ToBuf("{{ page.data.encrypted }}")
+            )
+            .then(encrypted => {
+                window.localStorage.setItem("{{ page.id }}", document.getElementById("password").value);
+                document.querySelector('.content').innerHTML = buf2str(encrypted);
+            });
+        })
+        .catch(() => {
+            alert('解密失败');
+        });
+    };
+
+    let pwd = window.localStorage.getItem("{{ page.id }}");
+    if (pwd) {
+        document.getElementById("password").value = pwd;
+        document.getElementById("pwd_submit").click();
+    }
+</script>
+
+{% include post/about.html %}
+
+{% include externals/disqus.html %}
