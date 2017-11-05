@@ -2,7 +2,7 @@
 layout: post
 title:  "艦これ任务描述 json 格式设计"
 date:   2017-06-21 13:36:57
-categories: [others]
+categories: [other]
 ---
 虽然代表舰娘百科接下了维护 poi 任务插件 [plugin-quest](https://github.com/poooi/plugin-quest) 的工作，不过心里还是很不情愿的。poi 任务插件的 json 格式设计思路与我主导的 [kcdata](https://github.com/kcwikizh/kcdata) 有较大的不同，设计目的也大相径庭，维护起来就和重新一遍没啥区别。经过了角川的多次折腾，无论是哪种格式用来完美描述新任务都很难实现，只能被迫去设计新的 json 描述格式。下面就列一下目前设计的描述规则。（虽然一直在抱怨 poi 任务插件的 json 格式，不过相比于重构插件，我还是依然选择继续苦逼地维护旧格式。毕竟设计理念不同嘛，而且一直懒得写新代码。）
 

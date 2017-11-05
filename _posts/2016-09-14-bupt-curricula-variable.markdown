@@ -2,7 +2,7 @@
 layout: post
 title:  "BUPT 的选课发包脚本"
 date:   2016-09-14 07:20:51
-categories: [works]
+categories: [work, sniffer]
 ---
 应同学之邀，来写篇博客。不过，在写之前调侃几句。脚本抢课有风险，小心还没吃上月饼，就被学校开除，这可是价值观的问题（笑）。
 

@@ -1,6 +1,14 @@
-- slug: works
-  name: Works
+- slug: work
+  name: Work
 - slug: fe
   name: FrontEnd
-- slug: others
-  name: Others
+- slug: other
+  name: Other
+- slug: sniffer
+  name: Sniffer
+- slug: telegram
+  name: Telegram
+- slug: hack
+  name: Hack
+- slug: wechat
+  name: Wechat

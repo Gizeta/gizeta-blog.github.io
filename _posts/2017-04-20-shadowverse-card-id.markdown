@@ -2,7 +2,7 @@
 layout: post
 title:  "Shadowverse 卡牌 ID 格式解析"
 date:   2017-04-20 21:05:15
-categories: [others]
+categories: [other]
 ---
 "CN_101541010": "冥府番犬・刻尔柏洛丝"
 

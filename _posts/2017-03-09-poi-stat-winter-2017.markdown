@@ -2,7 +2,7 @@
 layout: post
 title:  "poi-statistics 2017冬活无责任吐槽"
 date:   2017-03-09 21:33:12
-categories: [others]
+categories: [other]
 ---
 上 Google Analysis 的统计图
 ![Google Analysis](/upload/2017/03/09/201703092102.png)
