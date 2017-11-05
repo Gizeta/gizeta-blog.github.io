@@ -12,3 +12,5 @@
   name: Hack
 - slug: wechat
   name: Wechat
+- slug: openstack
+  name: OpenStack
