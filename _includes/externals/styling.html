@@ -1,8 +1,4 @@
-<link rel="stylesheet" href="{{ "/assets/vendor/normalize-css/normalize.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="//cdn.bootcss.com/normalize/7.0.0/normalize.min.css">
 <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-{% if site.styles contains site.highlightstyle %}
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/highlight/styles/{{ site.highlightstyle }}.css">
-{% else %}
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/vendor/highlight/styles/solarized_dark.css">
-{% endif %}
-<link rel="stylesheet" href="{{ "/assets/vendor/font-awesome/css/font-awesome.css" | prepend: site.baseurl }}">
+<link rel="stylesheet" href="//cdn.bootcss.com/highlight.js/9.12.0/styles/{{ site.highlightstyle }}.min.css">
+<link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css">
