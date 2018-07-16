@@ -6,43 +6,54 @@ categories: [other]
 ---
 G胖还我血汗钱！
 
+2018.07.17更新
+
 |---
-| 理财产品 | 投资 |
-|:-|-:|
-| FaceRig<br>FaceRig Live2D Module | \* |
-| Deponia: The Complete Journey | \* |
-| TIS-100 | \* |
-| Hacknet | \* |
-| Screeps | \* |
-| Uplink<br>Hand Of Fate<br>Hand of Fate - First Expansion | \* |
-| NEKOPARA Vol. 0<br>NEKOPARA Vol. 1<br>NEKOPARA Vol. 2 | \* |
-| Shadowverse CCG | \* |
-| AKIBA'S TRIP: Undead & Undressed | \* |
-| Atelier Sophie: The Alchemist of the Mysterious Book | \* |
-| DoDonPachi Resurrection (Post-Launch - No OST) | \* |
-| NEKOPARA Vol. 3 | \* |
-| Material Girl | \* |
-| Transistor<br>Portal<br>Portal 2 | \* |
-| PLAYERUNKNOWN'S BATTLEGROUNDS | \* |
-| The Legend of Heroes: Trails of Cold Steel | \* |
-| Dark Elf | \* |
-| Tricolour Lovestory<br>Tricolour Lovestory : Chapter Zero | \* |
-| King Exit | \* |
-| Taima Miko Yuugi | \* |
-| theHunter™: Call of the Wild<br>theHunter™: Call of the Wild - ATV SABER 4X4 | \* |
-| 東方天空璋 ～ Hidden Star in Four Seasons. | \* |
-| Rabi-Ribi | \* |
-| fault - milestone one<br>fault - milestone two side:above | \* |
-| Tokyo Xanadu eX+ | \* |
-| Succubus Rem | \* |
-| To The Moon | \* |
-| Atelier Firis: The Alchemist and the Mysterious Journey | \* |
-| TH15.5 東方憑依華　～ Antinomy of Common Flowers. | \* |
-| The Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack | \* |
-| Mirror | \* |
-| The Legend of Heroes: Trails of Cold Steel II | \* |
+| 理财时间 | 理财产品 | 投资 |
+|:-|:-|-:|
+| 2016.07 | FaceRig<br>FaceRig Live2D Module | \* |
+| 2016.07 | Deponia: The Complete Journey | \* |
+| 2016.07 | TIS-100 | \* |
+| 2016.07 | Hacknet | \* |
+| 2016.08 | Screeps | \* |
+| 2016.10 | Uplink<br>Hand Of Fate<br>Hand of Fate - First Expansion | \* |
+| 2016.11 | NEKOPARA Vol. 0<br>NEKOPARA Vol. 1<br>NEKOPARA Vol. 2 | \* |
+| 2016.12 | Shadowverse CCG | \* |
+| 2017.03 | AKIBA'S TRIP: Undead & Undressed | \* |
+| 2017.03 | Atelier Sophie: The Alchemist of the Mysterious Book | \* |
+| 2017.03 | DoDonPachi Resurrection (Post-Launch - No OST) | \* |
+| 2017.05 | NEKOPARA Vol. 3 | \* |
+| 2017.06 | Material Girl | \* |
+| 2017.06 | Transistor<br>Portal<br>Portal 2 | \* |
+| 2017.06 | PLAYERUNKNOWN'S BATTLEGROUNDS | \* |
+| 2017.08 | The Legend of Heroes: Trails of Cold Steel | \* |
+| 2017.08 | Dark Elf | \* |
+| 2017.09 | Tricolour Lovestory<br>Tricolour Lovestory : Chapter Zero | \* |
+| 2017.10 | King Exit | \* |
+| 2017.10 | Taima Miko Yuugi | \* |
+| 2017.11 | theHunter™: Call of the Wild<br>theHunter™: Call of the Wild - ATV SABER 4X4 | \* |
+| 2017.11 | 東方天空璋 ～ Hidden Star in Four Seasons. | \* |
+| 2017.11 | Rabi-Ribi | \* |
+| 2017.11 | fault - milestone one<br>fault - milestone two side:above | \* |
+| 2017.12 | Tokyo Xanadu eX+ | \* |
+| 2017.12 | Succubus Rem | \* |
+| 2017.12 | To The Moon | \* |
+| 2017.12 | Atelier Firis: The Alchemist and the Mysterious Journey | \* |
+| 2018.01 | TH15.5 東方憑依華　～ Antinomy of Common Flowers. | \* |
+| 2018.01 | The Disappearing of Gensokyo: Sakuya, Koishi, Suika Character Pack | \* |
+| 2018.02 | Mirror | \* |
+| 2018.02 | The Legend of Heroes: Trails of Cold Steel II | \* |
+| 2018.02 | MELTY BLOOD Actress Again Current Code<br>Human: Fall Flat | \* |
+| 2018.04 | Wallpaper Engine | \* |
+| 2018.06 | Just Shapes & Beats | \* |
+| 2018.06 | Feather Of Praying 羽翼的祈愿 | \* |
+| 2018.06 | Grand Theft Auto V | \* |
+| 2018.06 | Ys VIII: Lacrimosa of DANA | \* |
+| 2018.06 | OneShot<br>INSIDE | \* |
+| 2018.06 | Watch_Dogs2 | \* |
+| 2018.06 | Watch_Dogs 2 - Season Pass | \* |
 |===
-| 总计 | \* |
+| 总计 | 总计 | \* |
 
 <script>
   function b64ToBuf(str) {
@@ -58,7 +69,7 @@ G胖还我血汗钱！
     return String.fromCharCode(...new Uint16Array(buf));
   }
 
-  var payload = "opxOvH67hTaH3Xju:Wbw2DVG8Snmm79POu+KZvQd7IYkGnFlMQ7/SBA2GibhIhY9Z7k2BtZdTFt7G7aL3nh0xwRkefFxlcRSkrc8pg76pl+HHQRWhETOolOpsvgAWYF/Zd9ShkWYGDHXDglxmMIdZfol4rq5bE8ws/hdmTOwvUmZkhNcDfUNiC64OTZeKBZhRH12UKaqaOQ8D9OlpcKq59ULMiwzutZ1E2Y6AORh4o6o9rSuM9ST2JyCzv+8DWKkWuNZ/CdrEOIVt3lAKv3MW+LAu1UuL/8sAGFG1nBtFxSGr0jBp";
+  var payload = "LuZgmmm74T8oIWoT:4d+bneZ0Uc0UFWWBeTVG6GSaQfNE9evTeUXVN+D+r+xFs79JDIadZQnq5tQM6CsMvNdyaP2ZbmytA7Ch8oAjewNVqZ7OWWukXQjNujf5zE400W+TfWmDWPpsQquPsxQ09e00rjTyJ5C7zqHJZQdc8uQdbUEYiokeKxC7DB5KuFHPjxx41x/TtUx5L39k4r+aQFSibpJSyqIv6fSERTBq28l5f50yPPpoBpuXnTEDmgE/JrmPChBpaD1JXF/uQXgzckkz//pPEkAq5Bhi40v8kSqpScvAJQhIcOBzQmLQMMEPZw0ugksDbJ6gqEOHU94Q3unpDQMd05v8rrlTsm7EjoDDM+5T/yrTdpCkhCDxYpw=";
   let [iv, s] = payload.split(':');
   window.crypto.subtle.importKey(
     "jwk",
