@@ -51,7 +51,7 @@ SELINUX = disabled
 ===
 {% highlight bash %}
 yum -y install centos-release-openstack-queens epel-release
-yum -y install openstack-packstack python-pip
+yum -y install openstack-packstack openstack-utils python-pip
 packstack --allinone --provision-demo=n --os-neutron-ovs-bridge-mappings=extnet:br-ex --os-neutron-ovs-bridge-interfaces=br-ex:enp0s3 --os-neutron-ml2-type-drivers=vxlan,flat
 {% endhighlight %}
 
@@ -1492,8 +1492,54 @@ curl http://download.cirros-cloud.net/0.4.0/cirros-0.4.0-x86_64-disk.img | glanc
 
 <br>
 
+可能遇到的问题
+===
+
+Errcode: 24 "Too many open files"
+---
+{% highlight bash %}
+mkdir -p /etc/systemd/system/mariadb.service.d/
+echo -e "[Service]\nLimitNOFILE=1000000" > /etc/systemd/system/mariadb.service.d/limits.conf
+systemctl daemon-reload
+systemctl restart mariadb
+{% endhighlight %}
+
+No valid host was found. There are not enough hosts available.
+---
+{% highlight ini %}
+# /etc/nova/nova.conf
+enabled_filters=AllHostsFilter
+{% endhighlight %}
+
+重启 nova
+
+{% highlight bash %}
+openstack-service restart nova
+{% endhighlight %}
+
+``/dev/mapper/centos-root`` 空间过小
+---
+{% highlight bash %}
+unmount /dev/mapper/centos-home
+lvremove /dev/mapper/centos-home
+lvextend -L +900G /dev/mapper/centos-root
+xfs_growfs /dev/mapper/centos-root
+lvcreate -L 1GB -n home centos
+mkfs.xfs /dev/centos/home
+mount /dev/mapper/centos-home
+{% endhighlight %}
+
+查看 nova hypervisor 资源
+{% highlight bash %}
+nova hypervisor-stats
+{% endhighlight %}
+
+<br>
+
 参考
 ===
 * [CentOS7上利用packstack快速部署OpenStack Queens测试环境](https://blog.csdn.net/wh211212/article/details/80858083)
 * [OpenStack all-in-one setup on CentOS](http://devopspy.com/cloud-computing/openstack-all-in-one-setup-centos/)
 * [OpenStack Pike 单网卡 All In One 安装](https://segmentfault.com/a/1190000012265886)
+* [Sahara (Data Processing) UI User Guide](https://docs.openstack.org/sahara/queens/user/dashboard-user-guide.html)
+* [Example: Microsoft Windows image](https://docs.openstack.org/image-guide/windows-image.html)
