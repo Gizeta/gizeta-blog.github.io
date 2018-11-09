@@ -1489,3 +1489,11 @@ curl http://download.cirros-cloud.net/0.4.0/cirros-0.4.0-x86_64-disk.img | glanc
 宿主机与虚拟实例互连
 ===
 见[上篇博文](/openstack/2017/11/05/build-devstack-environment.html)。
+
+<br>
+
+参考
+===
+* [CentOS7上利用packstack快速部署OpenStack Queens测试环境](https://blog.csdn.net/wh211212/article/details/80858083)
+* [OpenStack all-in-one setup on CentOS](http://devopspy.com/cloud-computing/openstack-all-in-one-setup-centos/)
+* [OpenStack Pike 单网卡 All In One 安装](https://segmentfault.com/a/1190000012265886)
