@@ -2,7 +2,7 @@
 layout: post
 title:  "Shadowsocks配置出口HTTPS代理"
 date:   2018-02-15 17:49:15
-categories: [sniffer]
+categories: [proxy]
 ---
 最近接了个外包，想做个游戏 API 代理服务器。一开始以为简单写个代理服务器就完事了，没想到甲方说要整合 shadowsocks-manyuser 的系统。虽然刚开始觉得这样的设计太愚蠢，但是后来回过头看这个问题，感觉这真的是成本最低的方案了（自己还是 too simple）。这里就简单记录下想到的出口代理方案。
 

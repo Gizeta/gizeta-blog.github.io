@@ -3,7 +3,7 @@ layout: post
 title:  "如何愉快地在微信群中充当萌萌的表情 bot"
 subtitle: "一种下载 Telegram sticker 图片的方法"
 date:   2016-09-20 14:07:24
-categories: [work, telegram]
+categories: [node, telegram]
 ---
 自从用了 Telegram 之后，不知道怎么就转职成表情 bot 了（笑）。主要是微信的那些表情不够 kawaii，就想把 Telegram 里面的 sticker 都搬到微信的自定义表情中去（才发现自定义表情貌似可以同步 150 个，又不是去斗图，一般足够用了吧）。
 
