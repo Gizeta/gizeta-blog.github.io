@@ -6,7 +6,7 @@ categories: [other]
 ---
 G胖还我血汗钱！
 
-2018.07.17更新
+2019.01.08更新
 
 |---
 | 理财时间 | 理财产品 | 投资 |
@@ -52,6 +52,18 @@ G胖还我血汗钱！
 | 2018.06 | OneShot<br>INSIDE | \* |
 | 2018.06 | Watch_Dogs2 | \* |
 | 2018.06 | Watch_Dogs 2 - Season Pass | \* |
+| 2018.07 | NEKOPARA Extra | \* |
+| 2018.08 | 妄想症 Deliver Me | \* |
+| 2018.08 | Touhou Luna Nights | \* |
+| 2018.09 | 秘封ナイトメアダイアリー ～ Violet Detector. | \* |
+| 2018.09 | NieR:Automata™ Standard Edition | \* |
+| 2018.10 | Pony Island | \* |
+| 2018.10 | Life is Strange Complete Season (Episodes 1-5) | \* |
+| 2018.10 | Life is Strange: Before the Storm | \* |
+| 2018.11 | MarisaLand Legacy | \* |
+| 2018.11 | The Hex | \* |
+| 2018.11 | Koi-Koi Japan [Hanafuda playing cards]<br>Danganronpa V3: Killing Harmony | \* |
+| 2018.12 | 音灵 INVAXION | \* |
 |===
 | 总计 | 总计 | \* |
 
@@ -69,7 +81,7 @@ G胖还我血汗钱！
     return String.fromCharCode(...new Uint16Array(buf));
   }
 
-  var payload = "LuZgmmm74T8oIWoT:4d+bneZ0Uc0UFWWBeTVG6GSaQfNE9evTeUXVN+D+r+xFs79JDIadZQnq5tQM6CsMvNdyaP2ZbmytA7Ch8oAjewNVqZ7OWWukXQjNujf5zE400W+TfWmDWPpsQquPsxQ09e00rjTyJ5C7zqHJZQdc8uQdbUEYiokeKxC7DB5KuFHPjxx41x/TtUx5L39k4r+aQFSibpJSyqIv6fSERTBq28l5f50yPPpoBpuXnTEDmgE/JrmPChBpaD1JXF/uQXgzckkz//pPEkAq5Bhi40v8kSqpScvAJQhIcOBzQmLQMMEPZw0ugksDbJ6gqEOHU94Q3unpDQMd05v8rrlTsm7EjoDDM+5T/yrTdpCkhCDxYpw=";
+  var payload = "O3TFw/sic1N10jpy:W+NzvnpdaiEabQjcnG6gFzGTGU+8rrhvvNl62VhwQOq52NbfKNojsUDkk1VBrNOtyU63jwBRKbsL7/O6G4tssUfIEhsGoBD4VEN4U/X+HoyzgEciOxRkUvS+4lVeC6rAmHaxZNuSAH6PR6sI5BPs6454Ye6FpW+/ApiQKO0iS3LeRGp5x8HItNFB552ILV210jSVLP3Sl7brYYXBrUFvciwETxzoKgQBvHtc0pijwvFV1Q9pcxwbJOEUmrVYFzSoticP/0SXMgiA4rzLMr+npuGOLyILXRHuZOSLLiHuvQDhdzKu20tBzIbrwS5KQrbjT4YPOrFT/4N8EKabm2TPanXYQrQd6gO+Ydueltun16V9xWPnx6FyKjfhjRqmDHLxIA82h0ye7gO59YvPBiux+HJRf62Z56Yo0Ml0/9dinb1uCsPUu75Kh+YWmXta4l1rEF/hRXBWQA8bew==";
   let [iv, s] = payload.split(':');
   window.crypto.subtle.importKey(
     "jwk",
