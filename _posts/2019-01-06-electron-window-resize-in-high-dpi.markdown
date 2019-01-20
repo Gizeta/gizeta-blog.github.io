@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "关于 Windows 高 DPI 下窗口大小的奇妙变化"
+title:  "关于 Windows 高 DPI 下 Electron 窗口大小的奇妙变化"
 date:   2019-01-06 15:13:11
 categories: [electron]
 ---
