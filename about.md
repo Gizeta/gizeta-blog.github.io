@@ -5,7 +5,7 @@ title: About Me
 permalink: /about/
 comment: true
 ---
-东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷 EDM Arrange　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　ByteDancer　\|　<font color="red">单身狗待拯救</font>
+东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷 EDM Arrange　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　<font color="red">单身狗待拯救</font>
 
 <br>
 
@@ -38,24 +38,26 @@ __沉迷__:
 * ~~きららファンタジア~~
 * Shadowverse (ID: 843666073)
 * VOEZ
-* プリンセスコネクト！Re:Dive
+* プリンセスコネクト！Re:Dive (ID: 333717252)
 * Cytus Ⅱ
 * 雀魂 (ID: 40094091)
-* ハニー×ブレイド2 (ID: 750246057)
+* ~~ハニー×ブレイド2 (ID: 750246057)~~
 
 __单(D)推(D)__:
 
-* **田中ヒメ🥕鈴木ヒナ**
-* 猫宮ひなた
-* 湊あくあ⚓️
-* 夢咲楓
-* 周防パトラ
-* シエラ
-* 赤井はあと❤️
-* 輝夜月
-* 白上フブキ
-* 道明寺ここあ
-* ユメノシオリ
+* **[田中ヒメ🥕鈴木ヒナ](https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ)**
+* [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w) (KMNZ)
+* [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
+* [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
+* ~~[夢咲楓](https://www.youtube.com/channel/UC2ZVDmnoZAOdLt7kI7Uaqog) (ゲーム部)~~
+* [シエラ](https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ) (Overidea)
+* [周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)
+* [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)
+* [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
+* [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
+* [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
+* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)
+* [道明寺ここあ](https://www.youtube.com/channel/UCCebk1_w5oiMUTRxdNJq0sA)
 
 __来打我呀__:
 
@@ -68,3 +70,4 @@ __来打我呀__:
 * [Steam \| 空鱼UMA](http://steamcommunity.com/id/gizeta/)
 * [Bilibili \| 空鱼](http://space.bilibili.com/31625/#!/index)
 * [PGP \| 8FF3C26F](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x2AD041B88FF3C26F)
+* [Peing 提问箱](https://peing.net/zh-CN/gizeta_sf)
