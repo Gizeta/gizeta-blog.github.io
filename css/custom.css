@@ -24,10 +24,3 @@
         display: none;
     }
 }
-
-* {
-    cursor: url('/assets/images/trident.png'), auto !important;
-}
-a, a * {
-    cursor: pointer !important;
-}

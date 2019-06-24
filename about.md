@@ -28,7 +28,7 @@ comment: true
 __沉迷__:
 
 * 艦これ
-* ~~千年戦争アイギス~~
+* 千年戦争アイギス
 * ~~ラブライブ！~~
 * ~~ガールフレンド（♪）~~
 * ~~少女前线~~
@@ -43,25 +43,28 @@ __沉迷__:
 * Arcaea (ID: 797223557)
 * 雀魂 (ID: 40094091)
 * ~~ハニー×ブレイド2 (ID: 750246057)~~
-* 明日方舟 (ID: 97979935)
+* 明日方舟 (ID: 空鱼#9269)
 
 __单(D)推(D)__:
 
 * **[田中ヒメ🥕鈴木ヒナ](https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ)**
 * [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w) (KMNZ)
 * [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
-* [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
-* ~~[夢咲楓](https://www.youtube.com/channel/UC2ZVDmnoZAOdLt7kI7Uaqog) (ゲーム部)~~
-* [シエラ](https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ) (Overidea)
-* [周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)
-* [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)
-* [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
+* [周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀
+* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
+* [早稻叽](https://space.bilibili.com/1950658/)
+* [铃果](https://space.bilibili.com/416203727/)
+* [シエラ](https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ)🦋 (Overidea)
 * [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
+* [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
+* [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
+* [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
+* [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
+* ~~[夢咲楓](https://www.youtube.com/channel/UC2ZVDmnoZAOdLt7kI7Uaqog) (ゲーム部)~~
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
-* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)
 * [道明寺ここあ](https://www.youtube.com/channel/UCCebk1_w5oiMUTRxdNJq0sA)
 
-__来打我呀__:
+__出没地点__:
 
 * [GitHub \| Gizeta](https://github.com/Gizeta)
 * [Bitbucket \| Gizeta](https://bitbucket.org/Gizeta_sf/)
