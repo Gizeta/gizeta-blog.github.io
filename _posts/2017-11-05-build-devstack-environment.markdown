@@ -2,7 +2,7 @@
 layout: post
 title:  "使用DevStack搭建OpenStack环境"
 date:   2017-11-05 21:16:28
-categories: [openstack]
+categories: [note]
 ---
 闲话
 ---

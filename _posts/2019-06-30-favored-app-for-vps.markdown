@@ -2,7 +2,7 @@
 layout: post
 title:  "装机小记"
 date:   2019-06-30 14:02:42
-categories: [other]
+categories: [note]
 ---
 这里会记录些曾经在 VPS 上装过的觉得有趣的 App，顺便会附带一些吐槽和简短的安装方法（Debian only）。
 

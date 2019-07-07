@@ -2,7 +2,7 @@
 layout: post
 title:  "Debian 8 编译安装 trojan"
 date:   2019-07-06 15:14:20
-categories: [other]
+categories: [note]
 ---
 
 准备工作

@@ -5,7 +5,7 @@ title: About Me
 permalink: /about/
 comment: true
 ---
-东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷 EDM Arrange　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　<font color="red">单身狗待拯救</font>
+东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷 EDM Arrange　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　<font color="red">单身狗待拯救</font>　\|　酒姬民
 
 <br>
 

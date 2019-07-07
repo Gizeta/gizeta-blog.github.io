@@ -1,16 +1,12 @@
+- slug: work
+  name: Work
+- slug: note
+  name: Note
 - slug: fe
   name: FrontEnd
-- slug: other
-  name: Other
-- slug: node
-  name: NodeJS
-- slug: telegram
-  name: Telegram
-- slug: wechat
-  name: Wechat
-- slug: openstack
-  name: OpenStack
-- slug: proxy
-  name: Proxy
 - slug: electron
   name: Electron
+- slug: hack
+  name: Hack
+- slug: other
+  name: Other

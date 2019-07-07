@@ -2,7 +2,7 @@
 layout: post
 title:  "使用 PackStack 搭建 OpenStack 环境"
 date:   2018-11-09 16:13:26
-categories: [openstack]
+categories: [note]
 ---
 闲话
 ===
