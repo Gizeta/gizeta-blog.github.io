@@ -9,22 +9,6 @@ comment: true
 
 <br>
 
-<pre class="aa nue">
-　　　　　　　 　 　 　 ＿
-　　　　　　　　　　＿(○) 　 , ‐-　､､ _ ,, ｨｧ
-　､=＝ニ二￣￣　　 ｒ"　;ｒ´::::::;;;;;::::::::::::::ヽ､
-　　　　　　　￣ ヽ.　 |　 ,':::::::::::;;;;;;;;::::::::::::::',:::i　　.,ﾍ　））
-　　　（（　　　＿　 ,ﾍ,ゝ.i::::,ゝ､ﾇ　ゞv:::ｴ:::::::::::i　ﾉ /　　　　　|＼
-　　　　　　　(○)　'､　､ﾚ;;;;| ○　　 ○ ヽ:::::::::i/ /　 , -‐　￣　 >
-　　　　　　／　 ＼. ヽ ヽ;;;;|""r-‐‐┐""ｒ｀:::/ /　./ ｒ ￣　フノ
-　　　　／　　-‐ ､ `‐-ソ.:::.ゝ,ヽ､__,ﾉ _ノ,i::iﾉ　/-‐' /
-　　／　-‐"　　　　　　　ヽ､::::::Yﾐｭｴ彡":::::γ‐'''"‐- ,,,,,|＼
-　　￣　　　　　(○)､＿ノﾉ　〈:::::::}l：l{::::::::ｙへ＼￣ ''''‐-,　　>
-　　　　　　　　/　　 ｒ-‐"　　 i;;;;;;}l：l{;;;;;;（　　 ヽヽ､/|　/／
-　　　　　　　/　　／　　　　 /::::::::::::::::::::::ヽ　　 >　　|
-　　　　　　/　 ／　　　　　 く:::::::::::::::::::::::::: >　' ‐‐--'
-</pre>
-
 __沉迷__:
 
 * 艦これ
@@ -33,7 +17,7 @@ __沉迷__:
 * ~~ガールフレンド（♪）~~
 * ~~少女前线~~
 * ~~Ingress~~
-* ~~オルタナティブガールズ~~
+* ~~オルタナティブガールズ~~ 妃十三学园 (ID: 20527)
 * ~~崩坏3rd~~
 * ~~きららファンタジア~~
 * Shadowverse (ID: 843666073)
@@ -44,6 +28,7 @@ __沉迷__:
 * 雀魂 (ID: 40094091)
 * ~~ハニー×ブレイド2 (ID: 750246057)~~
 * 明日方舟 (ID: 空鱼#9269)
+* Pokemon Master (ID: 7955-1531-7059-8758)
 
 __单(D)推(D)__:
 
@@ -51,24 +36,25 @@ __单(D)推(D)__:
 * [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w) (KMNZ)
 * [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
 * [周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀
-* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
-* [早稻叽](https://space.bilibili.com/1950658/)
-* [铃果](https://space.bilibili.com/416203727/)
+* **[ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄**
 * [シエラ](https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ)🦋 (Overidea)
 * [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
 * [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
 * [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
 * [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
+* 夢咲楓 ~~(ゲーム部)~~
 * [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
-* ~~[夢咲楓](https://www.youtube.com/channel/UC2ZVDmnoZAOdLt7kI7Uaqog) (ゲーム部)~~
-* [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
+* [早稻叽](https://space.bilibili.com/1950658/)
+* [铃果](https://space.bilibili.com/416203727/)
 * [道明寺ここあ](https://www.youtube.com/channel/UCCebk1_w5oiMUTRxdNJq0sA)
+* [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
 
 __出没地点__:
 
 * [GitHub \| Gizeta](https://github.com/Gizeta)
-* [Bitbucket \| Gizeta](https://bitbucket.org/Gizeta_sf/)
-* [Twitter \| 空鱼](https://twitter.com/Gizeta_sf)
+* ~~[Bitbucket \| Gizeta](https://bitbucket.org/Gizeta_sf/)~~
+* [Twitter \| 空鱼🥕酒姬民](https://twitter.com/Gizeta_sf)
+* [Telegram \| SkyFish_gz](https://t.me/SkyFish_gz)
 * ~~[微博 \| 空鱼_绝赞拖延中](http://weibo.com/gizeta)~~
 * [舰娘百科 \| 空鱼](https://zh.kcwiki.moe/wiki/User:%E7%A9%BA%E9%B1%BC)
 * [Bangumi \| 空鱼](http://bgm.tv/user/gizeta)
