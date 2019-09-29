@@ -23,3 +23,7 @@ exclude: ["README.md", "README.html", "CNAME"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+collections:
+  roast:
+    output: false

@@ -30,7 +30,7 @@ __沉迷__:
 * 明日方舟 (ID: 空鱼#9269)
 * Pokemon Master (ID: 7955-1531-7059-8758)
 
-__单(D)推(D)__:
+<p id="dd"><strong>单(D)推(D)</strong>:</p>
 
 * **[田中ヒメ🥕鈴木ヒナ](https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ)**
 * [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w) (KMNZ)
@@ -62,3 +62,11 @@ __出没地点__:
 * [Bilibili \| 空鱼](http://space.bilibili.com/31625/#!/index)
 * [PGP \| 8FF3C26F](https://pgp.mit.edu/pks/lookup?op=vindex&search=0x2AD041B88FF3C26F)
 * [Peing 提问箱](https://peing.net/zh-CN/gizeta_sf)
+
+<script>
+  if (location.search === '?himehina') {
+    document.querySelectorAll('#dd + ul li ~ li').forEach(function(e) {
+      e.classList.add('hidden');
+    });
+  }
+</script>
