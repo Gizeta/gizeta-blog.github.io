@@ -34,23 +34,31 @@ __沉迷__:
 <p id="dd"><strong>单(D)推(D)</strong>:</p>
 
 * **[田中ヒメ🥕鈴木ヒナ](https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ)**
-* [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w) (KMNZ)
+* **[LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w)😺**
+* [周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀
 * [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
 * [ヨメミ](https://www.youtube.com/channel/UCy5lOmEQoivK5XK7QCaRKug)
-* [周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀
+* **[LITA](https://www.youtube.com/channel/UCwuS0uY-Z2Gr_5OV2oFybFA)🐶**
 * **[ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄**
-* [シエラ](https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ)🦋 (Overidea)
+* [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
+* [花譜](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
+* [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
+* [雫るる](https://space.bilibili.com/387636363/)
+* [くるみ](https://www.youtube.com/channel/UCBJFtEEDnCpz8koPH-nLWUA)🐶
+* [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
 * [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
 * [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
-* [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
-* [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
+* [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)🌟
+* [シエラ](https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ)🦋
 * [夏実萌恵](https://www.youtube.com/channel/UCBePKUYNhoMcjBi-BRmjarQ)
-* 夢咲楓 ~~(ゲーム部)~~
+* [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
 * [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
+* [五十嵐イツツ](https://www.youtube.com/channel/UCNAhQXaNtzBes7hIcmD7k_g)🌸
 * [早稻叽](https://space.bilibili.com/1950658/)
 * [铃果](https://space.bilibili.com/416203727/)
 * [道明寺ここあ](https://www.youtube.com/channel/UCCebk1_w5oiMUTRxdNJq0sA)
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
+* ~~夢咲楓~~
 
 __出没地点__:
 

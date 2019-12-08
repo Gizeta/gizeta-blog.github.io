@@ -1,5 +1,5 @@
 ---
-title: "イースVIII -Lacrimosa of DANA-"
+title: "Ys VIII: Lacrimosa of DANA"
 date: 2019-10-05 01:15:26
 playtime: 61h
 highlight: 剧情
