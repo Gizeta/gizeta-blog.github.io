@@ -5,14 +5,14 @@ title: About Me
 permalink: /about/
 comment: true
 ---
-东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷 EDM Arrange　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　<font color="red">单身狗待拯救</font>　\|　酒姬民
+东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷电子舞曲　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　<font color="red">单身狗待拯救</font>　\|　酒姬民
 
 <br>
 
 __沉迷__:
 
 * 艦これ
-* 千年戦争アイギス
+* ~~千年戦争アイギス~~
 * ~~ラブライブ！~~
 * ~~ガールフレンド（♪）~~
 * ~~少女前线~~
@@ -29,7 +29,8 @@ __沉迷__:
 * ~~ハニー×ブレイド2 (ID: 750246057)~~
 * 明日方舟 (ID: 空鱼#9269)
 * ~~Pokémon Masters (ID: 7955-1531-7059-8758)~~
-* 東方キャノンボール (ID: PY6LJ9)
+* ~~東方キャノンボール (ID: PY6LJ9)~~
+* ガール・カフェ・ガン (ID: 362984)
 
 <p id="dd"><strong>单(D)推(D)</strong>:</p>
 
@@ -49,7 +50,6 @@ __沉迷__:
 * [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
 * [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
 * [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)🌟
-* [シエラ](https://www.youtube.com/channel/UCupCAZz1l52vV8m-dvaoBVQ)🦋
 * [夏実萌恵](https://www.youtube.com/channel/UCBePKUYNhoMcjBi-BRmjarQ)
 * [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
 * [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
@@ -58,6 +58,7 @@ __沉迷__:
 * [铃果](https://space.bilibili.com/416203727/)
 * [道明寺ここあ](https://www.youtube.com/channel/UCCebk1_w5oiMUTRxdNJq0sA)
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
+* ~~シエラ~~
 * ~~夢咲楓~~
 
 __出没地点__:
