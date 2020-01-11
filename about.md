@@ -44,7 +44,8 @@ __沉迷__:
 * [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
 * [花譜](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
 * [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
-* [雫るる](https://space.bilibili.com/387636363/)
+* [雫るる](https://space.bilibili.com/387636363/)🍕
+* [新科娘](https://space.bilibili.com/451066708/)
 * [くるみ](https://www.youtube.com/channel/UCBJFtEEDnCpz8koPH-nLWUA)🐶
 * [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
 * [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
@@ -53,13 +54,16 @@ __沉迷__:
 * [夏実萌恵](https://www.youtube.com/channel/UCBePKUYNhoMcjBi-BRmjarQ)
 * [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
 * [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
+* [步玎](https://space.bilibili.com/416622817/)
+* [四四四](https://www.youtube.com/channel/UC1UgLyUsaD0p5ZoWiL-nH_A)
 * [五十嵐イツツ](https://www.youtube.com/channel/UCNAhQXaNtzBes7hIcmD7k_g)🌸
+* [六法陸六](https://www.youtube.com/channel/UCPVoNBPEGIY8VwPLFWhsOOw)
 * [早稻叽](https://space.bilibili.com/1950658/)
 * [铃果](https://space.bilibili.com/416203727/)
-* [道明寺ここあ](https://www.youtube.com/channel/UCCebk1_w5oiMUTRxdNJq0sA)
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
 * ~~シエラ~~
 * ~~夢咲楓~~
+* ~~道明寺ここあ~~
 
 __出没地点__:
 

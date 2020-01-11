@@ -64,6 +64,29 @@ G胖还我血汗钱！
 | 2018.11 | The Hex | \* |
 | 2018.11 | Koi-Koi Japan [Hanafuda playing cards]<br>Danganronpa V3: Killing Harmony | \* |
 | 2018.12 | 音灵 INVAXION | \* |
+| 2019.03 | 7th Sector | \* |
+| 2019.03 | A Dance of Fire and Ice | \* |
+| 2019.03 | Unheard | \* |
+| 2019.04 | 東方紺珠伝 ～ Legacy of Lunatic Kingdom.<br>弾幕アマノジャク 〜 Impossible Spell Card. | \* |
+| 2019.04 | Baba Is You | \* |
+| 2019.04 | 隐形守护者 The Invisible Guardian - 序至5章<br>隐形守护者 The Invisible Guardian - 6至10章,终章 | \* |
+| 2019.05 | Noel The Mortal Fate S1-7<br>CHAOS;CHILD<br>Danganronpa: Trigger Happy Havoc<br>Danganronpa 2: Goodbye Despair<br>Danganronpa Another Episode: Ultra Despair Girls | \* |
+| 2019.05 | Beholder | \* |
+| 2019.06 | Cyberpunk 2077 | \* |
+| 2019.06 | Ideology in Friction | \* |
+| 2019.06 | 東方輝針城 〜 Double Dealing Character.<br>東方神霊廟 〜 Ten Desires.<br>Celeste<br>Katana ZERO | \* |
+| 2019.08 | NieR:Automata&trade; - 3C3C1D119440927 | \* |
+| 2019.08 | Zero Escape: Zero Time Dilemma<br>Zero Escape: The Nonary Games | \* |
+| 2019.09 | 妖精大戦争 〜 東方三月精<br>ダブルスポイラー 〜 東方文花帖<br>東方鬼形獣 〜 Wily Beast and Weakest Creature. | \* |
+| 2019.10 | If My Heart Had Wings<br>LoveKami -Divinity Stage-<br>LoveKami -Useless Goddess-<br>A Sky Full of Stars<br>CROSS†CHANNEL: Steam Edition<br>Adventure of a Lifetime<br>If My Heart Had Wings -Flight Diary-<br>LoveKami -Healing Harem-<br>If My Heart Had Wings -Flight Diary- - New Wings: Akari | \* |
+| 2019.10 | Fluffy Store | \* |
+| 2019.10 | Gensokyo Night Festival<br>Noel The Mortal Fate S8 | \* |
+| 2019.11 | LAMUNATION! -international- | \* |
+| 2019.12 | Lost<br>Elise the Devil | \* |
+| 2019.12 | 3DMark<br>while True: learn()<br>Life is Strange 2 - Arcadia Bay Patches DLC<br>Life is Strange 2 - Episode 1<br>Life is Strange 2 - Episode 2<br>Life is Strange 2 - Episode 3<br>Life is Strange 2 - Episode 4<br>Life is Strange 2 - Episode 5 | \* |
+| 2019.12 | Disco Elysium | \* |
+| 2019.12 | LoveChoice 拣爱 | \* |
+| 2020.01 | Super Naughty Maid 2 | \* |
 |===
 | 总计 | 总计 | \* |
 
@@ -81,7 +104,7 @@ G胖还我血汗钱！
     return String.fromCharCode(...new Uint16Array(buf));
   }
 
-  var payload = "O3TFw/sic1N10jpy:W+NzvnpdaiEabQjcnG6gFzGTGU+8rrhvvNl62VhwQOq52NbfKNojsUDkk1VBrNOtyU63jwBRKbsL7/O6G4tssUfIEhsGoBD4VEN4U/X+HoyzgEciOxRkUvS+4lVeC6rAmHaxZNuSAH6PR6sI5BPs6454Ye6FpW+/ApiQKO0iS3LeRGp5x8HItNFB552ILV210jSVLP3Sl7brYYXBrUFvciwETxzoKgQBvHtc0pijwvFV1Q9pcxwbJOEUmrVYFzSoticP/0SXMgiA4rzLMr+npuGOLyILXRHuZOSLLiHuvQDhdzKu20tBzIbrwS5KQrbjT4YPOrFT/4N8EKabm2TPanXYQrQd6gO+Ydueltun16V9xWPnx6FyKjfhjRqmDHLxIA82h0ye7gO59YvPBiux+HJRf62Z56Yo0Ml0/9dinb1uCsPUu75Kh+YWmXta4l1rEF/hRXBWQA8bew==";
+  var payload = "uoYPpdRXHIKgOV6x:rLSPrBHEnS/MkyGV7NWGmNV2hMpxxhLu3SPjITJ1uRBIdQKC2bvUP703bMtIDDhbzwdPjjf1/39FRwgIL3mTiBbgLCTqPMvQ8RNHBskRiS3FYX4KKk5OhhpDMgV3t99EnOOb6F91PFWs3tKnfBxQ361FjWRcewR+OJu9z/NMHcafrQRNfzNXp4NMvYHRXi7PXciKODajfDx24RD7B7ukGo1lQFyDGyzgGxs1lDv2NMdrwqPm9YrqmnP6KScls7EFm/UVM9emKXD1m53q+t6gq+zW3HQSFxQEME/N0wdyPvgnzUibNMWn/tsOq+mup8ZpN8DMoYrAgCxlP6bzQV9qwOYcS5/H1PwjqPuE8a/iLLaov27Rh4X93Xk9P9BUabQpz+YGoI/hO1iEPCVeZfTM5AbfikFEWvyyc30gxsc+8JsOP5E2nn5FrUJhPUAj1HlJroamu2WEvc45snNR75BuJEF0oyC/YI1ghc2jQvVU5pCsztOknVJDZy5d9oZLBsTPiTpkS0RVLea/vqv0x6RzmOOQl8PQP1/kqZW/4TbcYfHiifjatK8id2fI8HNegae0KBRZ2MSJviNiDsbrhJ6kXXzbGLcUj9NJdrGiEFGQ2ZcT+IAZzb+W6OXoftUmz9mWI8Vty/g880E=";
   let [iv, s] = payload.split(':');
   window.crypto.subtle.importKey(
     "jwk",
