@@ -35,12 +35,13 @@ __沉迷__:
 <p id="dd"><strong>单(D)推(D)</strong>:</p>
 
 * **[田中ヒメ🥕鈴木ヒナ](https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ)**
+* **[星街すいせい](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A)☄️**
+* **[周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀**
 * **[LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w)😺**
-* [周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀
-* [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
 * [ヨメミ](https://www.youtube.com/channel/UCy5lOmEQoivK5XK7QCaRKug)
+* [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
 * **[LITA](https://www.youtube.com/channel/UCwuS0uY-Z2Gr_5OV2oFybFA)🐶**
-* **[ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄**
+* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
 * [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
 * [花譜](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
 * [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
