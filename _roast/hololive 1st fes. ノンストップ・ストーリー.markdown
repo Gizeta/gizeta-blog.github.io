@@ -1,6 +1,6 @@
 ---
 title: hololive 1st fes. ノンストップ・ストーリー
-date: 2019-09-29 13:15:36
+date: 2020-01-26 20:09:05
 tag:
   - live
   - vtuber
