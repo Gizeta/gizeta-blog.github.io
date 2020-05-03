@@ -38,12 +38,16 @@ __沉迷__:
 * **[星街すいせい](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A)☄️**
 * **[周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀**
 * **[LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w)😺**
+* [百鬼あやめ](https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg)😈
 * [ヨメミ](https://www.youtube.com/channel/UCy5lOmEQoivK5XK7QCaRKug)
 * [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
 * **[LITA](https://www.youtube.com/channel/UCwuS0uY-Z2Gr_5OV2oFybFA)🐶**
-* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
+* [桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)🐉
 * [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
 * [花譜](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
+* [兎田ぺこら](https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ)👯
+* [宝鐘マリン](https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg)🏴‍☠️
+* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
 * [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
 * [雫るる](https://space.bilibili.com/387636363/)🍕
 * [新科娘](https://space.bilibili.com/451066708/)
