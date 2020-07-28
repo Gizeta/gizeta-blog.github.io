@@ -5,13 +5,13 @@ title: About Me
 permalink: /about/
 comment: true
 ---
-东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷电子舞曲　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　<font color="red">单身狗待拯救</font>　\|　酒姬民　\|　观星者
+东方厨　\|　单冠湾提督　\|　挖坑不填　\|　舰娘百科搬砖苦力　\|　喜爱萌豚游戏的friends　\|　Falcom控　\|　沉迷电子舞曲　\| JAVA黑　\|　Apple黑　\|　web前端萌新　\|　<font color="red">单身狗待拯救</font>　\|　酒姬民　\|　星咏者　\|　百鬼组
 
 <br>
 
 __沉迷__:
 
-* 艦これ
+* ~~艦これ~~
 * ~~千年戦争アイギス~~
 * ~~ラブライブ！~~
 * ~~ガールフレンド（♪）~~
@@ -25,50 +25,60 @@ __沉迷__:
 * プリンセスコネクト！Re:Dive (ID: 333717252)
 * Cytus Ⅱ
 * Arcaea (ID: 797223557)
-* 雀魂 (ID: 40094091)
+* ~~雀魂 (ID: 40094091)~~
 * ~~ハニー×ブレイド2 (ID: 750246057)~~
-* 明日方舟 (ID: 空鱼#9269)
+* ~~明日方舟 (ID: 空鱼#9269)~~
 * ~~Pokémon Masters (ID: 7955-1531-7059-8758)~~
 * ~~東方キャノンボール (ID: PY6LJ9)~~
-* ガール・カフェ・ガン (ID: 362984)
+* ~~ガール・カフェ・ガン (ID: 362984)~~
 
 <p id="dd"><strong>单(D)推(D)</strong>:</p>
 
 * **[田中ヒメ🥕鈴木ヒナ](https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ)**
 * **[星街すいせい](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A)☄️**
 * **[周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀**
-* **[LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w)😺**
 * [百鬼あやめ](https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg)😈
+* [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w)😺
+* [罗莎琳](https://space.bilibili.com/511613157)📖
+* [星川サラ](https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w)🌟
 * [ヨメミ](https://www.youtube.com/channel/UCy5lOmEQoivK5XK7QCaRKug)
+* [LITA](https://www.youtube.com/channel/UCwuS0uY-Z2Gr_5OV2oFybFA)🐶
+* [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
 * [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
-* **[LITA](https://www.youtube.com/channel/UCwuS0uY-Z2Gr_5OV2oFybFA)🐶**
-* [桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)🐉
-* [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
 * [花譜](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
+* [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)🌟
 * [兎田ぺこら](https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ)👯
 * [宝鐘マリン](https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg)🏴‍☠️
-* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
-* [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
-* [雫るる](https://space.bilibili.com/387636363/)🍕
-* [新科娘](https://space.bilibili.com/451066708/)
-* [くるみ](https://www.youtube.com/channel/UCBJFtEEDnCpz8koPH-nLWUA)🐶
-* [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
-* [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
+* [桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)🐉
+* [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
+* [物述有栖](https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA)♥️♠️♦️♣️
 * [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
-* [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)🌟
-* [夏実萌恵](https://www.youtube.com/channel/UCBePKUYNhoMcjBi-BRmjarQ)
+* [犬山たまき](https://www.youtube.com/channel/UC8NZiqKx6fsDT3AVcMiVFyA)🐶💙
+* [早稻叽](https://space.bilibili.com/1950658/)
+* [雫るる](https://space.bilibili.com/387636363/)🍕
+* [楪帆波](https://www.youtube.com/channel/UCqXvL55GYHtRZhBS03LVGnQ)⛵️
+* [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
 * [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
-* [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
+* [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
+* [アズマリム](https://www.youtube.com/channel/UCARI2g7r-PHaxrIcAYsMfmA)
+* [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
 * [步玎](https://space.bilibili.com/416622817/)
+* [白雪みしろ](https://www.youtube.com/channel/UCC0i9nECi4Gz7TU63xZwodg)🐶❄
+* [愛宮みる](https://www.youtube.com/channel/UCJCzy0Fyrm0UhIrGQ7tHpjg)🍼💖
 * [四四四](https://www.youtube.com/channel/UC1UgLyUsaD0p5ZoWiL-nH_A)
+* [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
+* [NoiR](https://www.youtube.com/channel/UC-3piUPtXhIu-KAdEs7fT8A)
+* [琥珀ねね](https://www.youtube.com/channel/UC3uoOH4N2F4T9FyAGDwM6Ow)🍼❄️
+* [くるみ](https://www.youtube.com/channel/UCBJFtEEDnCpz8koPH-nLWUA)🐶
+* [夏実萌恵](https://www.youtube.com/channel/UCBePKUYNhoMcjBi-BRmjarQ)
+* [新科娘](https://space.bilibili.com/451066708/)
 * [五十嵐イツツ](https://www.youtube.com/channel/UCNAhQXaNtzBes7hIcmD7k_g)🌸
 * [六法陸六](https://www.youtube.com/channel/UCPVoNBPEGIY8VwPLFWhsOOw)
-* [早稻叽](https://space.bilibili.com/1950658/)
-* [铃果](https://space.bilibili.com/416203727/)
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
+* ~~铃果~~
 * ~~シエラ~~
-* ~~夢咲楓~~
 * ~~道明寺ここあ~~
+* ~~夢咲楓~~
 
 __出没地点__:
 
