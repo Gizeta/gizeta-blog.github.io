@@ -11,7 +11,7 @@ permalink: /roast/
 
 标签：{% for tag in comment.tag %}{{tag}}{% unless forloop.last %} / {% endunless %}{% endfor %}{% if comment.highlight %} - 亮点：{{ comment.highlight }}{% endif %}
 
-{{ comment.content }}
+<!-- {{ comment.content }} -->
 
 <br>
 

@@ -24,7 +24,7 @@ __沉迷__:
 * VOEZ
 * プリンセスコネクト！Re:Dive (ID: 333717252)
 * Cytus Ⅱ
-* Arcaea (ID: 797223557)
+* ~~Arcaea (ID: 797223557)~~
 * ~~雀魂 (ID: 40094091)~~
 * ~~ハニー×ブレイド2 (ID: 750246057)~~
 * ~~明日方舟 (ID: 空鱼#9269)~~
@@ -47,9 +47,13 @@ __沉迷__:
 * [湊あくあ](https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg)⚓️
 * [花譜](https://www.youtube.com/channel/UCQ1U65-CQdIoZ2_NA4Z4F7A)
 * [夜空メル](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw)🌟
+* [紫咲シオン](https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw)🌙
+* [獅白ぼたん](https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA)♌
+* [尾丸ポルカ](https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA)🎪
+* [桃鈴ねね](https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA)🥟
 * [兎田ぺこら](https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ)👯
+* [雪花ラミィ](https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw)☃️
 * [宝鐘マリン](https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg)🏴‍☠️
-* [桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)🐉
 * [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
 * [物述有栖](https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA)♥️♠️♦️♣️
 * [赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)❤️
@@ -60,9 +64,12 @@ __沉迷__:
 * [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
 * [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
 * [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
+* [Gawr Gura](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g)🔱
 * [アズマリム](https://www.youtube.com/channel/UCARI2g7r-PHaxrIcAYsMfmA)
 * [ミライアカリ](https://www.youtube.com/channel/UCMYtONm441rBogWK_xPH9HA)🦋
 * [步玎](https://space.bilibili.com/416622817/)
+* [戌神ころね](https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q)🥐
+* [大空スバル](https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA)🚑
 * [白雪みしろ](https://www.youtube.com/channel/UCC0i9nECi4Gz7TU63xZwodg)🐶❄
 * [愛宮みる](https://www.youtube.com/channel/UCJCzy0Fyrm0UhIrGQ7tHpjg)🍼💖
 * [四四四](https://www.youtube.com/channel/UC1UgLyUsaD0p5ZoWiL-nH_A)
@@ -75,6 +82,7 @@ __沉迷__:
 * [五十嵐イツツ](https://www.youtube.com/channel/UCNAhQXaNtzBes7hIcmD7k_g)🌸
 * [六法陸六](https://www.youtube.com/channel/UCPVoNBPEGIY8VwPLFWhsOOw)
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
+* [桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)🐉
 * ~~铃果~~
 * ~~シエラ~~
 * ~~道明寺ここあ~~
