@@ -6,6 +6,8 @@ highlight: 剧情
 tag:
   - PC游戏
   - RPG
+  - 轨迹
+  - JRPG
   - Falcom
 score: 9
 source: https://store.steampowered.com/app/991270/The_Legend_of_Heroes_Trails_of_Cold_Steel_III/

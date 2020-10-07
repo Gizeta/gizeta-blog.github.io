@@ -1,0 +1,181 @@
+---
+layout: post
+title:  "开始尝试 HTTP3"
+date:   2020-10-06 16:50:13
+categories: [server]
+---
+之前有收到过 Cloudflare 的邮件说要开启 HTTP3 了，没想到 HTTP3 这么快就上线了。不过因为公司网络连不上 Cloudflare 的 CDN，我这里大部分网站都只用了 DNS 服务。为了提前感受 HTTP3，也因为好久没有整过服务器了，许多 nginx 配置都是随便写的，这次准备搞个大动作。
+
+HTTP3(nginx-quic)
+---
+nginx 的 HTTP3 实现还没有合到主分支，所以想尝鲜的话还得自己动手编译。
+
+```shell
+# 安装 go
+wget https://golang.org/dl/go1.15.2.linux-amd64.tar.gz
+tar -C /usr/local -xzf go1.15.2.linux-amd64.tar.gz
+export PATH=$PATH:/usr/local/go/bin
+
+# 编译 boringssl
+git clone https://boringssl.googlesource.com/boringssl
+cd boringssl
+mkdir build
+cd build
+cmake ..
+make
+
+cd ../..
+
+# 编译 nginx-quic
+apt install mercurial libpcre3 libpcre3-dev
+hg clone -b quic https://hg.nginx.org/nginx-quic
+cd nginx-quic
+./auto/configure \
+  --prefix=/etc/nginx \
+  --sbin-path=/usr/sbin/nginx \
+  --modules-path=/usr/lib/nginx/modules \
+  --conf-path=/etc/nginx/nginx.conf \
+  --error-log-path=/var/log/nginx/error.log \
+  --http-log-path=/var/log/nginx/access.log \
+  --pid-path=/var/run/nginx.pid \
+  --lock-path=/var/run/nginx.lock \
+  --http-client-body-temp-path=/var/cache/nginx/client_temp \
+  --http-proxy-temp-path=/var/cache/nginx/proxy_temp \
+  --http-fastcgi-temp-path=/var/cache/nginx/fastcgi_temp \
+  --http-uwsgi-temp-path=/var/cache/nginx/uwsgi_temp \
+  --http-scgi-temp-path=/var/cache/nginx/scgi_temp \
+  --user=nginx \
+  --group=nginx \
+  --with-compat \
+  --with-file-aio \
+  --with-threads \
+  --with-http_addition_module \
+  --with-http_auth_request_module \
+  --with-http_dav_module \
+  --with-http_flv_module \
+  --with-http_gunzip_module \
+  --with-http_gzip_static_module \
+  --with-http_mp4_module \
+  --with-http_random_index_module \
+  --with-http_realip_module \
+  --with-http_secure_link_module \
+  --with-http_slice_module \
+  --with-http_ssl_module \
+  --with-http_stub_status_module \
+  --with-http_sub_module \
+  --with-http_v2_module \
+  --with-stream \
+  --with-stream_realip_module \
+  --with-stream_ssl_module \
+  --with-stream_ssl_preread_module \
+  --with-stream_quic_module \
+  --with-debug \
+  --with-http_v3_module \
+  --with-cc-opt='-I../boringssl/include' \
+  --with-ld-opt='-L../boringssl/build/ssl -L../boringssl/build/crypto'
+make && make install
+```
+
+```
+# nginx.conf
+http {
+  server {
+    listen 443 http3 reuseport;
+    listen 443 ssl;
+
+    ssl_certificate     certs/example.com.crt;
+    ssl_certificate_key certs/example.com.key;
+    ssl_protocols       TLSv1.3;
+
+    proxy_request_buffering off;
+
+    location / {
+      proxy_pass http://127.0.0.1:8080/;
+      add_header Alt-Svc '$http3=":443"; ma=86400';
+    }
+  }
+}
+```
+
+当我满心欢喜的重启完 nginx，访问网站的时候，咦，怎么还是 HTTP 1.1。查了半天，才发现 HTTP 响应头没有 Alt-Svc。md，我又tmd忘了未成功的请求是不会应用 add_header 的。换了个返回 200 的 URL，这次浏览器终于走 HTTP3 协议了，可喜可贺啊，才怪。这次虽然走了 HTTP3，但是返回了 500 错误，查了下 nginx 的错误日志，``epoll_ctl(1, -1) failed (9: Bad file descriptor)``。试了下 serve 静态文件是没有问题的。这我就只能选择放弃了，目前没有精力去读 nginx 的源码，可能是官方还没有支持反代的场景，这条路暂时走不通了。不过，Cloudflare 早在官方支持 HTTP3 之前就有了支持的方案，还有另一条路可以走。
+
+HTTP3(nginx + quiche)
+---
+```shell
+# patch nginx
+git clone --recursive https://github.com/cloudflare/quiche
+curl -O https://nginx.org/download/nginx-1.16.1.tar.gz
+tar xzvf nginx-1.16.1.tar.gz
+cd nginx-1.16.1
+patch -p01 < ../quiche/extras/nginx/nginx-1.16.patch
+
+# 编译 nginx
+./configure \
+  --prefix=/etc/nginx \
+  --sbin-path=/usr/sbin/nginx \
+  --modules-path=/usr/lib/nginx/modules \
+  --conf-path=/etc/nginx/nginx.conf \
+  --error-log-path=/var/log/nginx/error.log \
+  --http-log-path=/var/log/nginx/access.log \
+  --pid-path=/var/run/nginx.pid \
+  --lock-path=/var/run/nginx.lock \
+  --http-client-body-temp-path=/var/cache/nginx/client_temp \
+  --http-proxy-temp-path=/var/cache/nginx/proxy_temp \
+  --http-fastcgi-temp-path=/var/cache/nginx/fastcgi_temp \
+  --http-uwsgi-temp-path=/var/cache/nginx/uwsgi_temp \
+  --http-scgi-temp-path=/var/cache/nginx/scgi_temp \
+  --user=nginx \
+  --group=nginx \
+  --with-compat \
+  --with-file-aio \
+  --with-threads \
+  --with-http_addition_module \
+  --with-http_auth_request_module \
+  --with-http_dav_module \
+  --with-http_flv_module \
+  --with-http_gunzip_module \
+  --with-http_gzip_static_module \
+  --with-http_mp4_module \
+  --with-http_random_index_module \
+  --with-http_realip_module \
+  --with-http_secure_link_module \
+  --with-http_slice_module \
+  --with-http_ssl_module \
+  --with-http_stub_status_module \
+  --with-http_sub_module \
+  --with-http_v2_module \
+  --with-stream \
+  --with-stream_realip_module \
+  --with-stream_ssl_module \
+  --with-stream_ssl_preread_module \
+  --with-http_v3_module \
+  --build="quiche-$(git --git-dir=../quiche/.git rev-parse --short HEAD)" \
+  --with-openssl=../quiche/deps/boringssl \
+  --with-quiche=../quiche
+make && make install
+```
+
+```
+# nginx.conf
+http {
+  server {
+    listen 443 quic reuseport;
+    listen 443 ssl;
+
+    ssl_certificate     certs/example.com.crt;
+    ssl_certificate_key certs/example.com.key;
+    ssl_protocols       TLSv1.3;
+
+    proxy_request_buffering off;
+
+    location / {
+      proxy_pass http://127.0.0.1:8080/;
+      add_header Alt-Svc 'h3-29=":443"; ma=86400' always;
+    }
+  }
+}
+```
+
+重启完 nginx，终于能正常地返回了 HTTP3 的响应。最后开心地把所有网站都升级到 HTTP2 和 HTTP3 看看效果，希望以后打开页面不会再觉得慢了（笑。
+
+对了，现在浏览器默认是没有开启 HTTP3 支持的，如果想尝鲜的话，Firefox 需要在``about:config``中开启``network.http.http3.enabled``，Chrome 需要在启动参数中增加``--enable-quic --quic-version=h3-29``。

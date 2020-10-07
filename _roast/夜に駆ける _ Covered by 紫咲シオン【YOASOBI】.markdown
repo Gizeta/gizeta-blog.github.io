@@ -3,6 +3,7 @@ title: 夜に駆ける / Covered by 紫咲シオン【YOASOBI】
 date: 2020-07-30 01:56:56
 tag:
   - MV
+  - 翻唱
   - vtuber
   - 紫咲シオン
 score: 9

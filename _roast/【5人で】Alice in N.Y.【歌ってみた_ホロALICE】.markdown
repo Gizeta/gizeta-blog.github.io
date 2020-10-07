@@ -3,6 +3,7 @@ title: 【5人で】Alice in N.Y.【歌ってみた/ホロALICE】
 date: 2020-08-08 02:05:54
 tag:
   - MV
+  - 翻唱
   - vtuber
   - ときのそら
   - 不知火フレア

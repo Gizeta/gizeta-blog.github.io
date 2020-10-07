@@ -10,3 +10,5 @@
   name: Hack
 - slug: other
   name: Other
+- slug: server
+  name: Server
