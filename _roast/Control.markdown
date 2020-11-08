@@ -5,7 +5,7 @@ playtime: 49.7h
 highlight: 演出
 tag:
   - PC游戏
-  - 灵异
+  - 新怪谈
   - SCP基金会
   - AAVG
   - Remedy

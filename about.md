@@ -37,6 +37,8 @@ __沉迷__:
 * **[田中ヒメ🥕鈴木ヒナ](https://www.youtube.com/channel/UCFv2z4iM5vHrS8bZPq4fHQQ)**
 * **[星街すいせい](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A)☄️**
 * **[周防パトラ](https://www.youtube.com/channel/UCeLzT-7b2PBcunJplmWtoDg)🦀**
+* [Hiiro](https://space.bilibili.com/508963009)
+* [乙女おと](https://www.youtube.com/channel/UCvEX2UICvFAa_T6pqizC20g)♍
 * [百鬼あやめ](https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg)😈
 * [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w)😺
 * [罗莎琳](https://space.bilibili.com/511613157)📖
