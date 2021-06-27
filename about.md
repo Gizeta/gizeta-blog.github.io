@@ -82,10 +82,12 @@ __沉迷__:
 * [胡桃Usa](https://space.bilibili.com/12497617/)
 * [天使なの](https://www.youtube.com/channel/UCxBmyZNQDFJVr9-ZE7hAYfA)💙
 * [罗菈Rola](https://space.bilibili.com/2052064438/)
+* [咩栗](https://space.bilibili.com/745493)⚡⚡⚡
 * [雨宫燕](https://space.bilibili.com/1791514/)
 * [琥珀ねね](https://www.youtube.com/channel/UC3uoOH4N2F4T9FyAGDwM6Ow)🍼❄️
 * [くるみ](https://www.youtube.com/channel/UCBJFtEEDnCpz8koPH-nLWUA)🐶
 * [夏実萌恵](https://www.youtube.com/channel/UCBePKUYNhoMcjBi-BRmjarQ)
+* [天宮こころ](https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w)🎐
 * [新科娘](https://space.bilibili.com/451066708/)
 * [五十嵐イツツ](https://www.youtube.com/channel/UCNAhQXaNtzBes7hIcmD7k_g)🌸
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
@@ -99,7 +101,6 @@ __沉迷__:
 * ~~シエラ~~
 * ~~道明寺ここあ~~
 * ~~夢咲楓~~
-
 __出没地点__:
 
 * [GitHub \| Gizeta](https://github.com/Gizeta)
