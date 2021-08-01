@@ -12,7 +12,8 @@ author:
   twitter: Gizeta_sf
   disqus: gizetablog
 
-google_analytics: 'UA-33119609-2'
+# Cloudflare enables this, so comment here
+# google_analytics: 'UA-33119609-2'
 
 # Syntax highlighting
 highlightstyle: 'monokai'
