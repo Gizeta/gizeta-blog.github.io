@@ -33,6 +33,8 @@ __沉迷__:
 * ~~ガール・カフェ・ガン (ID: 362984)~~
 * 原神 (ID: 101880526)
 * ウマ娘 プリティーダービー (ID: 934817029)
+* 東方ダンマクカグラ (ID: nV2QuyMg)
+* 云图计划 (ID: 946114)
 
 <p id="dd"><strong>单(D)推(D)</strong>:</p>
 
@@ -44,6 +46,10 @@ __沉迷__:
 * [百鬼あやめ](https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg)😈
 * [LIZ](https://www.youtube.com/channel/UCRMpIxnySp7Fy5SbZ8dBv2w)😺
 * [星川サラ](https://www.youtube.com/channel/UC9V3Y3_uzU5e-usObb6IE1w)🌟
+* [早稻叽](https://space.bilibili.com/1950658/)
+* [星宮汐](https://space.bilibili.com/402417817/)
+* [夏诺雅](https://space.bilibili.com/1612112/)
+* [Bafuko](https://space.bilibili.com/1513469779)
 * [ヨメミ](https://www.youtube.com/channel/UCy5lOmEQoivK5XK7QCaRKug)
 * [LITA](https://www.youtube.com/channel/UCwuS0uY-Z2Gr_5OV2oFybFA)🐶
 * [白上フブキ](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)🌽
@@ -60,13 +66,9 @@ __沉迷__:
 * [燦鳥ノム](https://www.youtube.com/channel/UCwRKt_raV3N5KZgxcFyC1vw)
 * [物述有栖](https://www.youtube.com/channel/UCt0clH12Xk1-Ej5PXKGfdPA)♥️♠️♦️♣️
 * [犬山たまき](https://www.youtube.com/channel/UC8NZiqKx6fsDT3AVcMiVFyA)🐶💙
-* [早稻叽](https://space.bilibili.com/1950658/)
 * [雫るる](https://space.bilibili.com/387636363/)🍕
-* [星宮汐](https://space.bilibili.com/402417817/)
 * [步玎](https://space.bilibili.com/416622817/)
-* [夏诺雅](https://space.bilibili.com/1612112/)
 * [楪帆波](https://www.youtube.com/channel/UCqXvL55GYHtRZhBS03LVGnQ)⛵️
-* [ピンキーポップヘップバーン](https://www.youtube.com/channel/UC1pR2ig6NhndhvicEgclNdA)🍿
 * [猫宮ひなた](https://www.youtube.com/channel/UCevD0wKzJFpfIkvHOiQsfLQ)
 * [ユメノシオリ](https://www.youtube.com/channel/UCH0ObmokE-zUOeihkKwWySA)🍄
 * [Gawr Gura](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g)🔱
@@ -78,9 +80,9 @@ __沉迷__:
 * [愛宮みる](https://www.youtube.com/channel/UCJCzy0Fyrm0UhIrGQ7tHpjg)🍼💖
 * [輝夜月](https://www.youtube.com/channel/UCQYADFw7xEJ9oZSM5ZbqyBw)🍤
 * [NoiR](https://www.youtube.com/channel/UC-3piUPtXhIu-KAdEs7fT8A)
-* [闪光Pika](https://space.bilibili.com/652240042/)
 * [胡桃Usa](https://space.bilibili.com/12497617/)
 * [天使なの](https://www.youtube.com/channel/UCxBmyZNQDFJVr9-ZE7hAYfA)💙
+* [三日暦](https://space.bilibili.com/571841213)
 * [罗菈Rola](https://space.bilibili.com/2052064438/)
 * [咩栗](https://space.bilibili.com/745493)⚡⚡⚡
 * [雨宫燕](https://space.bilibili.com/1791514/)
@@ -88,11 +90,15 @@ __沉迷__:
 * [くるみ](https://www.youtube.com/channel/UCBJFtEEDnCpz8koPH-nLWUA)🐶
 * [夏実萌恵](https://www.youtube.com/channel/UCBePKUYNhoMcjBi-BRmjarQ)
 * [天宮こころ](https://www.youtube.com/channel/UCkIimWZ9gBJRamKF0rmPU8w)🎐
-* [新科娘](https://space.bilibili.com/451066708/)
+* [西園チグサ](https://www.youtube.com/channel/UCkngxfPbmGyGl_RIq4FA3MQ)
+* [ぱかチューブっ!](https://www.youtube.com/channel/UCAWxPGGuIfWME2KTLUmSCHw)
 * [五十嵐イツツ](https://www.youtube.com/channel/UCNAhQXaNtzBes7hIcmD7k_g)🌸
 * [家長むぎ](https://www.youtube.com/channel/UC_GCs6GARLxEHxy1w40d6VQ)
 * ~~[赤井はあと](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg)~~
 * ~~[桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)~~
+* ~~新科娘~~
+* ~~ピンキーポップヘップバーン~~
+* ~~闪光Pika~~
 * ~~四四四~~
 * ~~六法陸六~~
 * ~~魔王酱Maou~~
@@ -101,6 +107,7 @@ __沉迷__:
 * ~~シエラ~~
 * ~~道明寺ここあ~~
 * ~~夢咲楓~~
+
 __出没地点__:
 
 * [GitHub \| Gizeta](https://github.com/Gizeta)
