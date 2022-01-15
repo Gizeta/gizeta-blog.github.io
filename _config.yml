@@ -2,8 +2,8 @@
 title: 空鱼
 description: 未知「姿态不明的空鱼」
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gizeta.me" # the base hostname & protocol for your site
+baseurl: "/gizeta-blog.github.io/" # the subpath of your site, e.g. /blog/
+url: "http://gizeta.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: 空鱼
